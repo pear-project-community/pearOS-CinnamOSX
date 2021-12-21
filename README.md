@@ -33,6 +33,14 @@ And many more ...
 
 ![image](https://user-images.githubusercontent.com/74509560/146957621-7a01382c-db57-4daa-be41-6b240eb8082e.png)
 
+## Download 
+
+Link : COMING SOON !
+
+- To login :
+USER : pear
+PASSWORD : pear
+
 
 
 
