@@ -6,7 +6,7 @@ Official Website : https://pearos.xyz/
 ## What is pearOS CinnamOSX ?
 
 - A free and open-source alternative to macOS
-- Based on Linux Mint 20.2
+- Based on Linux Mint 20.2 (Ubuntu 20.04 LTS)
 - Use a recent Linux Kernel
 - Powered by Cinnamon
 - A lightweight linux distribution
