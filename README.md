@@ -1,7 +1,7 @@
 # pearOS-CinnamOSX
 Repository of the unofficial version of pearOS, pearOS CinnamOSX
 
-# What is pearOS CinnamOSX ?
+## What is pearOS CinnamOSX ?
 
 - A free and open-source alternative to macOS
 - Based on Linux Mint 20.2
