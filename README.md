@@ -7,4 +7,8 @@ Repository of the unofficial version of pearOS, pearOS CinnamOSX
 - Based on Linux Mint 20.2
 - Use a recent Linux Kernel
 - Powered by Cinnamon
-And man more ...
+
+![cinnamOSX-presentation](https://user-images.githubusercontent.com/74509560/146950927-7f712edb-2169-4720-90ce-864dbc8fa4fa.png)
+
+
+And many more ...
