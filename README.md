@@ -44,6 +44,14 @@ And many more ...
 - <h4> Sound and Video </h4> Celluloid, Cheese, gPodder, Hypnotix, Rhythmbox Music Player
 - <h4> Others :</h4> Synaptic, htop, bleachBit, Ubuntu Mainline Kernen Updater (UMKI), hardinfo
 - <h4> pearOS Apps :</h4> system-overview (more on future versions)
+
+## Source of software using 
+
+Lightpad : https://github.com/libredeb/lightpad
+
+Icons (Cupertino-BigSur Icon) : https://github.com/USBA/Cupertino-iCons
+
+Themes (WhiteSur) : https://github.com/vinceliuice/WhiteSur-gtk-theme
  
 ## Download 
 
