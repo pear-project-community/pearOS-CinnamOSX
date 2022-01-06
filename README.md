@@ -42,7 +42,7 @@ And many more ...
 - <h4> Office :</h4>  GNOME Calendar, GNOME Contact, Evince
 - <h4> Programming :</h4> Gambas3
 - <h4> Sound and Video </h4> Celluloid, Cheese, gPodder, Hypnotix, Rhythmbox Music Player
-- <h4> Others :</h4> Synaptiic, htop, bleachBit, Ubuntu Mainline Kernen Updater (UMKI), hardinfo
+- <h4> Others :</h4> Synaptic, htop, bleachBit, Ubuntu Mainline Kernen Updater (UMKI), hardinfo
 - <h4> pearOS Apps :</h4> system-overview (more on future versions)
  
 ## Download 
