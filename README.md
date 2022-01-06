@@ -39,7 +39,7 @@ And many more ...
 - <h4> Games :</h4> GNOME Chess
 - <h4> Graphics :</h4> Document scanner, Evince, Eye Of GNOME (eog)
 - <h4> Internet :</h4> Chromium Web Browser, GNOME Feeds, gPodder, Polari, Snapdrop, Epiphany (GNOME web), Web-App Manager
-- <h4> Office :<h/4> GNOME Calendar, GNOME Contact, Evince
+- <h4> Office :</h4>  GNOME Calendar, GNOME Contact, Evince
 - <h4> Programming :</h4> Gambas3
 - <h4> Sound and Video </h4> Celluloid, Cheese, gPodder, Hypnotix, Rhythmbox Music Player
 - <h4> Others :</h4> Synaptiic, htop, bleachBit, Ubuntu Mainline Kernen Updater (UMKI), hardinfo
